@@ -1,11 +1,12 @@
 .topnav {
-    background-color: #171717;
+    background-color: #000;
+    opacity: 0.5;
     overflow: hidden;
 }
 
 .topnav a {
   float: right;
-  color: #f2f2f2;
+  color: #9e9e9e;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -13,11 +14,7 @@
 }
 
 .topnav a:hover {
-  color: #171717;
-}
-
-.topnav a.active {
-  color: #fff;
+  color: #f1f1f1;
 }
 
 .topnav a.split {
