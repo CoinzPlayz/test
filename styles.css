@@ -13,11 +13,14 @@
 }
 
 .topnav a:hover {
-  text-color: #171717;
-  color: black;
+  color: #171717;
 }
 
 .topnav a.active {
-  text-color: #fff;
-  color: white;
+  color: #fff;
+}
+
+.topnav a.split {
+  float: right;
+  color: #171717;
 }
