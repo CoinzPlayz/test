@@ -5,7 +5,7 @@
 }
 
 div {
-  transition: 0.1s;
+  transition: 0.65s;
 }
 
 #div1 {transition-timing-function: ease-in-out;}
