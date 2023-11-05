@@ -4,6 +4,18 @@
   background-image: linear-gradient(to bottom right, #171717, #9e9e9e);
 }
 
+div {
+  color: #9e9e9e;
+  font-weight: bold;
+  transition: 0.65s;
+}
+
+#div1 {transition-timing-function: linear;}
+
+div:hover {
+  color: #fff;
+}
+
 .topnav {
     background-color: #000;
     font-family: Arimo;
