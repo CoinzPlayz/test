@@ -7,6 +7,6 @@ function dropDown() {
   }
 }
 
-function AnimatedMenu(x) {
+function animatedMenu(x) {
   x.classList.toggle("change");
 }
