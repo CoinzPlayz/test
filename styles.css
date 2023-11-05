@@ -1,6 +1,6 @@
 .topnav {
     background-color: #000;
-    font-family: Nosifer;
+    font-family: Arial;
     opacity: 0.8;
     overflow: hidden;
 }
@@ -20,7 +20,7 @@
 
 .topnav a.split {
   float: left;
-  font-family: Arial;
+  font-family: Nosifer;
   color: #f1f1f1;
 }
 
