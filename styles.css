@@ -18,7 +18,7 @@ div:hover {
 .topnav {
     background-color: #000;
     padding: 17px 17px;
-    font-family: Arimo;
+    font-family: "quicksand", medium;
     opacity: 0.8;
     overflow: hidden;
 }
