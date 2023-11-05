@@ -8,7 +8,7 @@ function dropDown() {
 }
 
 $(document).ready(function(){
-	$('#nav-icon1').click(function(){
+	$('#nav-icon3').click(function(){
 		$(this).toggleClass('open');
 	});
 });
