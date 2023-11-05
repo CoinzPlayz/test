@@ -6,9 +6,3 @@ function dropDown() {
     x.className = "topnav";
   }
 }
-
-$(document).ready(function(){
-	$('#nav-icon3').click(function(){
-		$(this).toggleClass('open');
-	});
-});
