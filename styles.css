@@ -6,7 +6,7 @@
 
 .topnav a {
   float: right;
-  color: #f1f1f1;
+  color: #9e9e9e;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -19,7 +19,7 @@
 
 .topnav a.split {
   float: left;
-  color: #171717;
+  color: #f1f1f1;
 }
 
 .topnav .icon {
