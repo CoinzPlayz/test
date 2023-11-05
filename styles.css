@@ -8,7 +8,7 @@ div {
   transition: 0.65s;
 }
 
-#div69 {transition-timing-function: ease-in-out;}
+#div1 {transition-timing-function: ease-in-out;}
 
 div:hover {
   color: white
