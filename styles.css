@@ -4,16 +4,6 @@
   background-image: linear-gradient(to bottom right, grey, white);
 }
 
-div {
-  transition: 0.65s;
-}
-
-#div1 {transition-timing-function: ease-in-out;}
-
-div:hover {
-  color: white
-}
-
 .topnav {
     background-color: #000;
     font-family: Arial;
