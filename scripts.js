@@ -1,5 +1,5 @@
 function dropDown() {
-  var x = document.getElementById("myTopnav");
+  var x = document.getElementById("topNav");
   if (x.className === "topnav") {
     x.className += " responsive";
   } else {
