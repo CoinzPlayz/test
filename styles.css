@@ -1,17 +1,3 @@
-.content {
-  padding: 16px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-}
-
 #grad1 {
   height: 610px;
   background-color: #9e9e9e;
