@@ -4,14 +4,12 @@
   background-image: linear-gradient(to bottom right, #171717, #9e9e9e);
 }
 
-fade {
+.fade {
   color: #9e9e9e;
   transition: 0.65s;
 }
 
-#fade1 {transition-timing-function: linear;}
-#fade2 {transition-timing-function: linear;}
-#fade3 {transition-timing-function: linear;}
+#div1 {transition-timing-function: linear;}
 
 fade:hover {
   color: #fff;
