@@ -21,6 +21,9 @@ fade:hover {
     font-family: quicksand;
     opacity: 0.8;
     overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .topnav a {
@@ -45,6 +48,10 @@ fade:hover {
 
 .topnav .icon {
   display: none;
+}
+
+.main {
+  margin-top: 30px;
 }
 
 @media screen and (max-width: 600px) {
