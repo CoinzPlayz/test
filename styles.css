@@ -4,6 +4,8 @@ h1 {
   padding: 125px 0;
   font-size: 70px;
   line-height: 1.0;
+  color: #fff;
+  text-shadow: 2px 2px 8px #9e9e9e;
 }
 
 h2 {
@@ -12,6 +14,8 @@ h2 {
   padding: 150px 0;
   font-size: 45px
   line-height: 1.0;
+  color: #fff;
+  text-shadow: 2px 2px 8px #9e9e9e;
 }
 
 #grad1 {
@@ -69,8 +73,6 @@ fade:hover {
   margin-top: 30px;
   height: 1500px;
   padding: 16px;
-  color: #fff;
-  text-shadow: 2px 2px 8px #fff;
 }
 
 @media screen and (max-width: 600px) {
