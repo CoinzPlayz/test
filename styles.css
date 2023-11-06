@@ -6,6 +6,14 @@ h1 {
   line-height: 1.0;
 }
 
+h2 {
+  text-align: center;
+  font-family: quicksand;
+  padding: 150px 0;
+  font-size: 45px
+  line-height: 1.0;
+}
+
 #grad1 {
   height: 605px;
   background-color: #9e9e9e;
