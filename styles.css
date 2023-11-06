@@ -2,6 +2,8 @@
   height: 605px;
   background-color: #9e9e9e;
   background-image: linear-gradient(to bottom right, #171717, #9e9e9e);
+  color: white;
+  text-shadow: 2px 2px 8px #fff;
 }
 
 .fade {
