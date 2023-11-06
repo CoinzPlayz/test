@@ -2,8 +2,6 @@
   height: 605px;
   background-color: #9e9e9e;
   background-image: linear-gradient(to bottom right, #171717, #9e9e9e);
-  color: #171717;
-  text-shadow: 2px 2px 8px #fff;
 }
 
 .fade {
@@ -53,8 +51,10 @@ fade:hover {
 
 .main {
   margin-top: 30px;
-  height: 2500px
-  padding: 16px
+  height: 1500px;
+  padding: 16px;
+  color: #171717;
+  text-shadow: 2px 2px 8px #fff;
 }
 
 @media screen and (max-width: 600px) {
